@@ -1,6 +1,7 @@
 // Program to find union and intersection of two 2x2 matrices using logical operations
 // using bitwise operations for union and intersection
 
+
 #include <stdio.h>
 #define SIZE 2
 

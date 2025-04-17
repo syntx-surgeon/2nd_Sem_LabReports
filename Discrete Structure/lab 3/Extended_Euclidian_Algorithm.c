@@ -2,6 +2,7 @@
 // This program calculates the GCD of two numbers and finds x and y such that ax + by = gcd(a, b)
 // It also prints the steps of the algorithm in a tabular format.
 
+
 #include <stdio.h>
 
 int gcdExtended(int a, int b, int *x, int *y) {
